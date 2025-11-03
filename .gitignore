@@ -1,5 +1,6 @@
 # 🧠 Sesión de Instagram (¡NO subir!)
 session.json
+session.py
 
 # 🐍 Archivos Python compilados
 __pycache__/
@@ -43,4 +44,5 @@ test_output/
 # 🔒 Archivos personales o de configuración del IDE
 .vscode/
 .idea/
-*.code-workspacesession.py
+*.code-workspace
+session.py
