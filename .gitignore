@@ -1,0 +1,46 @@
+# 🧠 Sesión de Instagram (¡NO subir!)
+session.json
+
+# 🐍 Archivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🧰 Entornos virtuales
+env/
+venv/
+.venv/
+ENV/
+
+# ⚙️ Archivos de configuración locales
+*.env
+*.local
+*.log
+
+# 🧱 Archivos temporales o de caché
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 🧩 Archivos de despliegue que genera Render
+.render-build/
+render.yaml
+
+# 📦 Dependencias y paquetes
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# 🧪 Archivos de pruebas o notebooks
+*.ipynb_checkpoints
+tests/__pycache__/
+test_output/
+
+# 🔒 Archivos personales o de configuración del IDE
+.vscode/
+.idea/
+*.code-workspacesession.py
