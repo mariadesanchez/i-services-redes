@@ -48,3 +48,4 @@ test_output/
 session.py
 .env
 .env.local
+.vercel
