@@ -46,3 +46,5 @@ test_output/
 .idea/
 *.code-workspace
 session.py
+.env
+.env.local
